@@ -18,13 +18,13 @@ Features include JWT Authentication, Role-Based Access Control (Admin vs User), 
 
 
 ### Student List
-![Student List](screenshots/list.png)
+![Student List](https://github.com/user-attachments/assets/d28da175-4f5f-4c28-a332-3deda32ade8c)
 
 ### Create Student Form
-![Create Form](screenshots/createform.png)
+![createFrom](https://github.com/user-attachments/assets/8492cbcb-7b5c-4185-86ef-209b54656742)
 
 ### Update Student Form
-![Update Form](screenshots/updateform.png)
+![updateForm](https://github.com/user-attachments/assets/9545683e-9cc9-461d-a983-618cd16530d3)
 
 ## Project Structure
 - `backend/`: Node.js + Express API
