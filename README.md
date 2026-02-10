@@ -11,6 +11,20 @@ Features include JWT Authentication, Role-Based Access Control (Admin vs User), 
 - **Student Management**: Manage student records (Name, Email, Age, Course, Status).
 - **Tech Stack**: React (Vite), Node.js, Express, SQLite.
 
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Student List
+![Student List](screenshots/list.png)
+
+### Create Student Form
+![Create Form](screenshots/createform.png)
+
+### Update Student Form
+![Update Form](screenshots/updateform.png)
+
 ## Project Structure
 - `backend/`: Node.js + Express API
 - `frontend/`: React + Vite Client
