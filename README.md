@@ -35,7 +35,7 @@ Features include JWT Authentication, Role-Based Access Control (Admin vs User), 
    # or
    node server.js
    ```
-   The server runs on `http://localhost:5000`.
+   The server runs on `http://localhost:5001`.
    The database `student_database.sqlite` will be created automatically in the project root.
    Admin and User accounts will be seeded automatically.
 
