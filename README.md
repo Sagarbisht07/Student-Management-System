@@ -14,8 +14,8 @@ Features include JWT Authentication, Role-Based Access Control (Admin vs User), 
 ## Screenshots
 
 ### Login
-![Login](![(https://github.com/user-attachments/assets/c31160f7-ab5e-47e2-846d-9b1d3724eb30)
-ots/login.png)
+![loginPage](https://github.com/user-attachments/assets/18bb2285-fa22-46ad-8426-84cf5543919a)
+
 
 ### Student List
 ![Student List](screenshots/list.png)
